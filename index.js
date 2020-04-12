@@ -62,4 +62,4 @@ client.on("message", (message) => {
   //return message.channel.send("Swloni chkon ana");
 });
 
-client.login("Njc4Njk4NzI5ODU4OTI0NTU1.XpNERg.Mxk-FsdRDAvvdRu6ZprKi0ncc30");
+client.login(process.env.TOKEN);
