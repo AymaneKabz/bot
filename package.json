@@ -7,6 +7,6 @@
     "discord.js": "^11.5.1"
   },
   "scripts": {
-    "start": "node index"
+    "start": "node index.js"
   }
 }
